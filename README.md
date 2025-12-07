@@ -108,13 +108,26 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arch" height="50" alt="arch logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=debian" height="50" alt="debian logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="50" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="50" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=jquery" height="50" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=npm" height="50" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=yarn" height="50" alt="yarn logo"  />
+  <img width="12" />
+</div>
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="12" />
@@ -122,7 +135,15 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="50" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=googlecloud" height="50" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="50" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo"  />
   <img width="12" />
 </div>
 
@@ -130,6 +151,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=glyodev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+<br>
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=glyodev&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
