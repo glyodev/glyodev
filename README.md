@@ -40,7 +40,7 @@
 
 <hr>
 
-### My frontend development
+### My FrontEnd technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo"  />
@@ -65,7 +65,7 @@
 
 <hr>
 
-### My backend development
+### My BackEnd technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
@@ -103,7 +103,7 @@
 
 <hr>
 
-### My softwares
+### My favorite technologies
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=arch" height="50" alt="arch logo"  />
