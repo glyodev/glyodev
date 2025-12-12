@@ -2,8 +2,11 @@ name: Keep GitHub Streak Alive
 
 on:
   schedule:
-    - cron: "0 22 * * *"  # todos los días a las 22:00 UTC
+    - cron: "0 22 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   keep-streak:
